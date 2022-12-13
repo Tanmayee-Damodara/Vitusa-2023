@@ -1,0 +1,3 @@
+INSERT INTO EmployeeSalary VALUES(121, 'P1', 8000, 500);
+INSERT INTO EmployeeSalary VALUES(321, 'P2', 10000, 1000); 
+INSERT INTO EmployeeSalary VALUES(421, 'P1', 12000, 0); 
